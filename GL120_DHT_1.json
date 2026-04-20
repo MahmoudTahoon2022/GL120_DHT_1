@@ -1,8 +1,8 @@
 {
   "devices": {
     "GL120_DHT_1": {
-      "version": "2.8",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL120_DHT_1/main/GL120_DHT_1_v2.8.bin",
+      "version": "2.9",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL120_DHT_1/main/GL120_DHT_1_v2.9.bin",
       "force": false
     }
   }
